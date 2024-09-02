@@ -1,1 +1,1 @@
-# smsp-pm-twc
+Instances and results of the single machine scheduling problem with periodic maintenance with the objective of minimizing the total weighted completion time
